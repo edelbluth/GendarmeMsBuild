@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GendarmeMsBuild", "GendarmeMsBuild\GendarmeMsBuild.csproj", "{1CDCD29F-E3B1-418F-A2F1-9BF44E0E9516}"
 EndProject
 Global
